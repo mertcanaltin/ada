@@ -41,7 +41,8 @@ var NAVTREE =
     [ "Contributing", "index.html#autotoc_md23", [
       [ "Building", "index.html#autotoc_md24", null ],
       [ "Amalgamation", "index.html#autotoc_md25", null ],
-      [ "License", "index.html#autotoc_md26", null ]
+      [ "License", "index.html#autotoc_md26", null ],
+      [ "Further reading", "index.html#autotoc_md27", null ]
     ] ],
     [ "Command line interface (CLI)", "db/d8a/md_docs_2cli.html", null ],
     [ "Namespaces", "namespaces.html", [
@@ -81,10 +82,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d5/ddb/namespaceada_1_1idna.html#af593f5293a356a9fc9bb3878a96b3eae",
-"db/d2e/ada__idna_8cpp.html#a3f4b1dede3010b9e5173fd8c91227ec0",
-"dd/d64/namespaceada.html#a4e483bbc60c5905f8885c2dc134a30ed",
-"df/d61/ada__c_8h.html#a2ff905e41752042a9953a11ef1645b3c"
+"d5/ddb/namespaceada_1_1idna.html#ad4ec90e439aa4453a705d0e4e26d493d",
+"da/dac/url__search__params_8h.html#a663e90222ab2aa9380ddf76bf055b2ad",
+"dd/d4c/ada__idna_8h.html#a256324be086f84ee56e21f9bff4acacf",
+"dd/dd6/ada__c_8cpp.html#ad80e19d1dd8d0b2b4831cdf2519fb184"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

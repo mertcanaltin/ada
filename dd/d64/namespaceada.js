@@ -36,7 +36,12 @@ var namespaceada =
     [ "parser", "d6/da3/namespaceada_1_1parser.html", [
       [ "parse_url", "d6/da3/namespaceada_1_1parser.html#a2b0835f0dceec1161ca5e13bfffdf598", null ],
       [ "parse_url< url >", "d6/da3/namespaceada_1_1parser.html#a0abcc72d74b95df866bb5741a6802e40", null ],
-      [ "parse_url< url_aggregator >", "d6/da3/namespaceada_1_1parser.html#ae218eecdf660d5149f20464a90730915", null ]
+      [ "parse_url< url_aggregator >", "d6/da3/namespaceada_1_1parser.html#ae218eecdf660d5149f20464a90730915", null ],
+      [ "parse_url_impl", "d6/da3/namespaceada_1_1parser.html#ae5bc0e565c8d7db76f6bdc7f7243c6ef", null ],
+      [ "parse_url_impl", "d6/da3/namespaceada_1_1parser.html#afbe28af279b530ec8c2d818908dd7494", null ],
+      [ "parse_url_impl", "d6/da3/namespaceada_1_1parser.html#a5d1f94698c00dbe0004d372c9a3a785d", null ],
+      [ "parse_url_impl< url >", "d6/da3/namespaceada_1_1parser.html#a9a6388eded52cafa5e3c87fb1f03037a", null ],
+      [ "parse_url_impl< url_aggregator >", "d6/da3/namespaceada_1_1parser.html#aa565135765e7cc4893c30a2bc41d5324", null ]
     ] ],
     [ "scheme", "d2/d63/namespaceada_1_1scheme.html", "d2/d63/namespaceada_1_1scheme" ],
     [ "serializers", "d9/dea/namespaceada_1_1serializers.html", [
@@ -46,6 +51,7 @@ var namespaceada =
     ] ],
     [ "unicode", "d2/dc3/namespaceada_1_1unicode.html", [
       [ "broadcast", "d2/dc3/namespaceada_1_1unicode.html#a6ed16a9339ab5625b761e534b10fce84", null ],
+      [ "is_tabs_or_newline", "d2/dc3/namespaceada_1_1unicode.html#a956a9f069a4505ce3f0b31995bf2b273", null ],
       [ "percent_encode_index", "d2/dc3/namespaceada_1_1unicode.html#a2c259cbcbfcbab3faa8f3f1d31ea553c", null ],
       [ "hex_to_binary_table", "d2/dc3/namespaceada_1_1unicode.html#a653abc739f565d2b62c72a8499cf573e", null ],
       [ "is_alnum_plus_table", "d2/dc3/namespaceada_1_1unicode.html#aa96be0c7e7a403dc114665734796702e", null ],
